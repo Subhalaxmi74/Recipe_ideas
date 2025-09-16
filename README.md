@@ -23,7 +23,7 @@ A recipe search app built with vanilla JavaScript, HTML, and CSS. Users can sear
 ## Folder Structure
 
 ```
-global-pantry/
+ Paikaray Restaurant/
 ├── index.html
 ├── styles.css
 ├── main.js
@@ -51,4 +51,5 @@ The app uses TheMealDB API https://themealdb.com/api.php
 ## Screenshot
 
 ![Screenshot of The Paikaray Restaurant](./assets/screenshot.png)
+
 
