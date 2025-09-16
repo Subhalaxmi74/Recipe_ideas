@@ -4,7 +4,7 @@ A recipe search app built with vanilla JavaScript, HTML, and CSS. Users can sear
 
 ## Live Demo
 
-[View on Netlify](https://ania-w-Paikaray Restaurant.netlify.app)
+[View on Netlify](https://ania-w-PaikarayRestaurant.netlify.app)
 
 ## Features
 
@@ -39,7 +39,7 @@ global-pantry/
 1. Clone the repo:
 
 ```bash
-   git clone https://github.com/AniaWillis/global-pantry.git
+https://github.com/Subhalaxmi74/Recipe_ideas.git
 ```
 
 2. Open index.html in your browser
@@ -51,3 +51,4 @@ The app uses TheMealDB API https://themealdb.com/api.php
 ## Screenshot
 
 ![Screenshot of The Paikaray Restaurant](./assets/screenshot.png)
+
